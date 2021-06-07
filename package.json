@@ -1,5 +1,5 @@
 {
-  "name": "react-chess",
+  "name": "asiancollegechess",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -16,7 +16,7 @@
     "test": "react-scripts test --env=jsdom",
     "eject": "react-scripts eject"
   },
-  "homepage": "https://talhaawan.github.io/react-chess",
+  "homepage": "https://jsputis.github.io/asiancollegechess/",
   "browserslist": {
     "production": [
       ">0.2%",
